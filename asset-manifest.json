@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Dpepe/crud-react/static/css/main.70fd5fe0.chunk.css",
+    "main.js": "/Dpepe/crud-react/static/js/main.227244e3.chunk.js",
+    "main.js.map": "/Dpepe/crud-react/static/js/main.227244e3.chunk.js.map",
+    "runtime-main.js": "/Dpepe/crud-react/static/js/runtime-main.3dc2c6d1.js",
+    "runtime-main.js.map": "/Dpepe/crud-react/static/js/runtime-main.3dc2c6d1.js.map",
+    "static/css/2.847db71a.chunk.css": "/Dpepe/crud-react/static/css/2.847db71a.chunk.css",
+    "static/js/2.ffc1ce06.chunk.js": "/Dpepe/crud-react/static/js/2.ffc1ce06.chunk.js",
+    "static/js/2.ffc1ce06.chunk.js.map": "/Dpepe/crud-react/static/js/2.ffc1ce06.chunk.js.map",
+    "index.html": "/Dpepe/crud-react/index.html",
+    "precache-manifest.c33eb56d61ac35c468ac25e630692134.js": "/Dpepe/crud-react/precache-manifest.c33eb56d61ac35c468ac25e630692134.js",
+    "service-worker.js": "/Dpepe/crud-react/service-worker.js",
+    "static/css/2.847db71a.chunk.css.map": "/Dpepe/crud-react/static/css/2.847db71a.chunk.css.map",
+    "static/css/main.70fd5fe0.chunk.css.map": "/Dpepe/crud-react/static/css/main.70fd5fe0.chunk.css.map",
+    "static/js/2.ffc1ce06.chunk.js.LICENSE.txt": "/Dpepe/crud-react/static/js/2.ffc1ce06.chunk.js.LICENSE.txt",
+    "static/media/ankora.jpg": "/Dpepe/crud-react/static/media/ankora.4000efdc.jpg",
+    "static/media/creador-pdf-departamentos-bosque.JPG": "/Dpepe/crud-react/static/media/creador-pdf-departamentos-bosque.cd048350.JPG",
+    "static/media/creador-pdf-departamentos-nova.JPG": "/Dpepe/crud-react/static/media/creador-pdf-departamentos-nova.460cf423.JPG",
+    "static/media/creador-pdf-departamentos.JPG": "/Dpepe/crud-react/static/media/creador-pdf-departamentos.2ef9fdc7.JPG",
+    "static/media/dcid.jpg": "/Dpepe/crud-react/static/media/dcid.130f8e72.jpg",
+    "static/media/fondo-body.jpg": "/Dpepe/crud-react/static/media/fondo-body.7e5d5c89.jpg",
+    "static/media/fondo-perfil-azul.png": "/Dpepe/crud-react/static/media/fondo-perfil-azul.d86860d5.png",
+    "static/media/fondo-perfil-html.jpg": "/Dpepe/crud-react/static/media/fondo-perfil-html.119c3267.jpg",
+    "static/media/fondo-perfil-verdel.png": "/Dpepe/crud-react/static/media/fondo-perfil-verdel.f71b797c.png",
+    "static/media/fondotren-blur.jpg": "/Dpepe/crud-react/static/media/fondotren-blur.75545ecd.jpg",
+    "static/media/logo.svg": "/Dpepe/crud-react/static/media/logo.5d5d9eef.svg",
+    "static/media/pantallasa.jpg": "/Dpepe/crud-react/static/media/pantallasa.2ae82e97.jpg",
+    "static/media/verchitos.jpg": "/Dpepe/crud-react/static/media/verchitos.45a30609.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dc2c6d1.js",
+    "static/css/2.847db71a.chunk.css",
+    "static/js/2.ffc1ce06.chunk.js",
+    "static/css/main.70fd5fe0.chunk.css",
+    "static/js/main.227244e3.chunk.js"
+  ]
+}
